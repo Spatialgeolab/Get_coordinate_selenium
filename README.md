@@ -14,3 +14,7 @@
 * 本程式僅供學習和研究使用，請勿用於商業用途或不當用途。
 # 授權
 * 本程式採用 MIT 授權，詳細內容請參閱 LICENSE 檔案。
+
+# 成果展示
+*![image](https://user-images.githubusercontent.com/33368807/231086862-3e471e18-871d-420e-bf48-785ed98a12bc.png)
+
